@@ -1,0 +1,71 @@
+
+----------------------
+Group: Control
+Factor: Acetate
+r.squared: 0.724426623257894
+p_value: 0.0673891329907049
+----------------------
+Group: Control
+Factor: Butyrate
+r.squared: 0.318198091226688
+p_value: 0.321931055947798
+----------------------
+Group: Control
+Factor: Caproate
+r.squared: 0.637197387065711
+p_value: 0.105430260771628
+----------------------
+Group: Control
+Factor: Isobutyrate
+r.squared: 0.323573172400716
+p_value: 0.316952926351068
+----------------------
+Group: Control
+Factor: Isovalerate
+r.squared: 0.313647997601182
+p_value: 0.326193569426637
+----------------------
+Group: Control
+Factor: Propionate
+r.squared: 0.410312427485221
+p_value: 0.244260450831629
+----------------------
+Group: Control
+Factor: Valerate
+r.squared: 0.579070848055541
+p_value: 0.135145310876775
+----------------------
+Group: Treat
+Factor: Acetate
+r.squared: 0.00039196445821672
+p_value: 0.97479393284098
+----------------------
+Group: Treat
+Factor: Butyrate
+r.squared: 0.552968129931182
+p_value: 0.149697317311989
+----------------------
+Group: Treat
+Factor: Caproate
+r.squared: 0.392230669680519
+p_value: 0.25832261894463
+----------------------
+Group: Treat
+Factor: Isobutyrate
+r.squared: 0.261466249294625
+p_value: 0.378548334813654
+----------------------
+Group: Treat
+Factor: Isovalerate
+r.squared: 0.171354272556779
+p_value: 0.488407999211918
+----------------------
+Group: Treat
+Factor: Propionate
+r.squared: 0.290791960058044
+p_value: 0.348307909034891
+----------------------
+Group: Treat
+Factor: Valerate
+r.squared: 0.355623507592194
+p_value: 0.288489591039031

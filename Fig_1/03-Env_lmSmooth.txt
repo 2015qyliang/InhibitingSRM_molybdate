@@ -1,0 +1,71 @@
+
+----------------------
+Group: Control
+Factor: pH
+r.squared: 0.28512519649672
+p_value: 0.353980862501081
+----------------------
+Group: Control
+Factor: Sulfate
+r.squared: 0.809403801341353
+p_value: 0.0375700768258808
+----------------------
+Group: Control
+Factor: Sulfite
+r.squared: 0.0105988515964281
+p_value: 0.869150987647239
+----------------------
+Group: Control
+Factor: TIC
+r.squared: 0.609033522172565
+p_value: 0.119375478697921
+----------------------
+Group: Control
+Factor: TOC
+r.squared: 0.844704716229564
+p_value: 0.0272953857455782
+----------------------
+Group: Control
+Factor: TotalFe
+r.squared: 0.425019426390004
+p_value: 0.233204457926407
+----------------------
+Group: Control
+Factor: TotalP
+r.squared: 0.910709259780467
+p_value: 0.0116427093413367
+----------------------
+Group: Treat
+Factor: pH
+r.squared: 0.295072947429724
+p_value: 0.34407368034621
+----------------------
+Group: Treat
+Factor: Sulfate
+r.squared: 0.122077848601013
+p_value: 0.564359479291407
+----------------------
+Group: Treat
+Factor: Sulfite
+r.squared: 0.395078605604921
+p_value: 0.256072457915284
+----------------------
+Group: Treat
+Factor: TIC
+r.squared: 0.327035560521861
+p_value: 0.313778488798887
+----------------------
+Group: Treat
+Factor: TOC
+r.squared: 0.773835991673701
+p_value: 0.0491864850238889
+----------------------
+Group: Treat
+Factor: TotalFe
+r.squared: 0.643273943574481
+p_value: 0.102530393181302
+----------------------
+Group: Treat
+Factor: TotalP
+r.squared: 0.647699598101593
+p_value: 0.100442391280181
